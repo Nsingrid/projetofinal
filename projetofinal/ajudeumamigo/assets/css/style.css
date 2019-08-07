@@ -1,0 +1,23 @@
+html {
+    scroll-behavior: smooth;  
+}
+.site {
+    text-decoration: none !important;
+    color: #000000;
+}
+.img {
+    width: 100px;
+}
+.img--banner {
+    width: 100%
+}
+#font--footer{
+    font-size: 18px;
+    color: white;
+}
+#size--icon{
+    font-size:25px;
+}
+#img--cards{
+    width:150px !important;
+}
